@@ -1,8 +1,9 @@
+import React from 'react';
 
 function Menu() {
     return (
         <div>
-            <h1>About</h1>
+            <h1>Menue</h1>
         </div>
     )
 };
